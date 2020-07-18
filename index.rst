@@ -9,6 +9,9 @@ Welcome to Web Design and Development - Apssdc's documentation!
 .. toctree::
    :maxdepth: 2
    :numbered:
+   
+   chapter1.md
+   chapter2.md
 
 
 
